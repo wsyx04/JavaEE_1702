@@ -21,6 +21,7 @@
             // color
             String c1 = "#f9c", c2 = "#3c8";
             for (int i = 0; i < count; i++) {
+
                 String color;
                 if (i % 2 == 0) {
                     color = c1;
